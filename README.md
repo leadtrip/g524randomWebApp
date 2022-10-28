@@ -1,0 +1,1 @@
+A simple grails project created to exercise my `wood.mike:g524randomPlugin`
